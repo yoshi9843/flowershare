@@ -62,12 +62,9 @@ GEM
       zeitwerk (~> 2.3)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-<<<<<<< HEAD
-    bcrypt (3.1.16)
-=======
     autoprefixer-rails (10.2.4.0)
       execjs
->>>>>>> controller
+    bcrypt (3.1.16)
     bindex (0.8.1)
     bootsnap (1.7.2)
       msgpack (~> 1.0)
@@ -143,11 +140,8 @@ GEM
       racc (~> 1.4)
     nokogiri (1.11.1-x86_64-linux)
       racc (~> 1.4)
-<<<<<<< HEAD
     orm_adapter (0.5.0)
-=======
     popper_js (1.16.0)
->>>>>>> controller
     pry (0.14.0)
       coderay (~> 1.1)
       method_source (~> 1.0)
